@@ -75,7 +75,7 @@ int main() {
 	tex1.getUnifrom1iLocation("tex", shader1.program);
 	tex1.Bind(0);
 
-	/*Texture tex2("Resource/Texture/texture1.jpg");
+	/*Texture tex2("Resource/Texture/texture.jpg");
 	tex2.getUnifrom1iLocation("tex", shader1.program);
 	tex2.Bind(1);*/
 
